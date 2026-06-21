@@ -30,8 +30,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/flow.gif" alt="OrbSync live Flow — agents working in parallel, in real time" width="780">
-  <br><sub><i>The live Flow — agents working in parallel. &nbsp;Interface preview (faithful UI recreation; real capture coming soon).</i></sub>
+  <img src="assets/design.gif" alt="OrbSync visual editor — edit your app or game live" width="820">
+  <br><sub><i>Edit your app or game <b>live</b> — tweak any element by hand, or ask an agent to change the real code.</i></sub>
 </p>
 
 ---
@@ -56,6 +56,23 @@ Coding with a single AI assistant means babysitting it: ask, copy, paste, test, 
 3. Agents **work in parallel**, passing results to one another (handoff).
 4. You follow the **live Flow** — who's doing what, in which file, at which stage.
 5. You **review and integrate**. Something broke? Just say what's wrong — it finds the cause, **fixes it**, and tells you **what the solution was**.
+
+## 🎬 See it in action
+
+<p align="center">
+  <img src="assets/agentes.gif" alt="Agents building in parallel" width="820">
+  <br><sub><i>A <b>Lead</b> splits your goal and routes tasks to specialists — they build <b>in parallel</b> while you watch every file, live.</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/visor.gif" alt="The result running inside the app" width="820">
+  <br><sub><i>The result runs <b>right inside the app</b> — here, a playable game the agents built.</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/skills.gif" alt="Reusable Skills library" width="820">
+  <br><sub><i>A library of reusable <b>Skills</b> — teach your agents once, use them in any project.</i></sub>
+</p>
 
 ## ✨ Features
 
@@ -127,7 +144,8 @@ No — OrbSync is a proprietary product. This repository hosts the installers an
 - [x] Live agent Flow
 - [x] Flow templates
 - [x] Per-provider cost panel + ROI
-- [ ] Real in-app screenshots & a demo video
+- [x] Real in-app captures
+- [ ] Demo video
 - [ ] More modes and templates
 - [ ] Code signing (install with no warnings)
 - [ ] macOS / Linux builds
