@@ -87,6 +87,23 @@ Coding with a single AI assistant means babysitting it: ask, copy, paste, test, 
   <a href="https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe"><b>⬇&nbsp; Download for Windows — free trial</b></a>
 </p>
 
+## 🧰 More in the studio
+
+OrbSync is a full workspace, not a single trick:
+
+| | |
+|---|---|
+| ⚔️ **Arena** | Run models or agents head-to-head on the same task, side by side, and keep the winner. |
+| 📊 **Benchmark** | Measure models and agents across tasks to find the best — and cheapest — for the job. |
+| 🎨 **Design studio** | Turn a brief into UI and assets, guided step by step. |
+| 👁️ **Live preview** | See and test what's being built without leaving the app. |
+| 🧠 **Project memory** | It remembers your project's context across sessions. |
+| 🧩 **Skills** | Give your agents reusable, shareable abilities. |
+| 🔱 **Built-in Git** | Branches, commits and pull requests — every agent's work stays reviewable. |
+| 🗄️ **Database studio** | Inspect and work with your project's data. |
+| 🏢 **Office** | See every agent and what it's working on, at a glance. |
+| 👥 **Team mode** | Sync projects and usage across your machines. |
+
 ## 🚀 Get started
 
 1. **[Download the Windows installer](https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe)** (`OrbSync-v1-Setup.exe`).
